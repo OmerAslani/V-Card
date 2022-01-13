@@ -82,7 +82,7 @@ main {
   display: flex;
 }
 #header {
-  margin: 20em -50em 9em 40em;
+  margin: 9em -50em 9em 40em;
   width: 400px;
 }
 .fab:hover {
