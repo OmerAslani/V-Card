@@ -46,7 +46,7 @@ body {
   justify-content: flex-start;
   align-content: stretch;
   flex-direction: row;
-  z-index: 990;
+
   margin-top: -30em;
 }
 .fab {
@@ -82,7 +82,7 @@ main {
   display: flex;
 }
 #header {
-  margin: 20em -12em 9em 40em;
+  margin: 20em -50em 9em 40em;
   width: 400px;
 }
 .fab:hover {
@@ -106,7 +106,7 @@ main {
   font-family: sans-serif;
 }
 
-.btn:hover {
+.btn2:hover {
   background-color: #4c00f7;
 }
 
@@ -123,4 +123,7 @@ main {
 .container__btn{
     margin-top: 3em;
     width: 400px;
+}
+.in{
+    margin-block: -10px;
 }
